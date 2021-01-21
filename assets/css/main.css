@@ -1687,9 +1687,11 @@ input, select, textarea {
 /* ----------------------------------------------------------------------*/
 
 footer {
-	background-color: #333;
+	/*background-color: #333;*/
 	padding: 72px;
 	font-size: 80%;
+	opacity: 1; // Leave this as 1
+background-color: rgba(0,0,0,0.6);
 
 
 }
